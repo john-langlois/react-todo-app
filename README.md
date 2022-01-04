@@ -2,6 +2,8 @@
 
 You can access the To-do list easily through this link: https://john-langlois.github.io/react-todo-app/ 
 
+In this app, you can add, delete, submit and edit items. To edit items, simply double click on it. Once you are done, press the enter key to resubmit. This app will hold your data in the browser local storage. So whether you reload, close your app or reopen it, you will still have access to your items.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
